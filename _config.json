@@ -1,0 +1,8 @@
+{
+  "refresh_rate": "1000",
+  "line_limit": "100",
+  "file_path": "/Users/an/Deploy/web/log/home/web/ELG_EMS_F/portal.log",
+  "is_playing": true,
+  "highlight_word": ["applle", "banana", "grapes"],
+  "hide_word": ["red", "green"]
+}
